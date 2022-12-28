@@ -117,8 +117,8 @@ def commercial_distribution(data):
     # ------- Average Price per Year
 
     # Filters
-    min_year_built = data["yr_built"].min()
-    max_year_built = data["yr_built"].max()
+    min_year_built = int(data["yr_built"].min())
+    max_year_built = int(data["yr_built"].max())
 
     st.sidebar.subheader("Select Max Year Built")
     f_year_built = st.sidebar.slider("Year Built", min_year_built,
