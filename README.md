@@ -101,7 +101,7 @@ Hipótese falsa. Imóveis construídos após 1955 tem, em média, preço por pé
 
 ![image](https://user-images.githubusercontent.com/86979717/212221211-cdf6802b-4932-421a-a5aa-585f9a57fab3.png)
 
-Hipótese falsa. Imóveis sem porão tem, em média, apenas 22% a mais de metragem por pé quadrado em seus lotes.
+Hipótese falsa. Imóveis sem porão tem, em média, apenas 22% a mais de pés quadrados em seus lotes.
 
 
 * Hipótese 4: A quantidade de quartos tem maior correlação com o preço do que a quantidade de banheiros.
