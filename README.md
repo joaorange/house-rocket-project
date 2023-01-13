@@ -79,7 +79,7 @@ As variáveis do conjunto de dados, e suas respectivas descrições, são as seg
 | sqft_living15  | Medida, em pés quadrado, do espaço interno de habitação dos 15 imóveis vizinhos mais próximos |
 | sqft_lot15 | Medida, em pés quadrado, do espaço terrestre dos 15 imóveis vizinhos mais próximos |
 
-# 4 Hipóteses de Negócio
+# 4. Hipóteses de Negócio
 
 Foram desenvolvidas 5 hipóteses de negócio para serem validadas ou não pela análise dos dados. 
 
