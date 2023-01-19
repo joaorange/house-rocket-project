@@ -87,14 +87,14 @@ Foram desenvolvidas 5 hipóteses de negócio para serem validadas ou não pela a
 
 ![image](https://user-images.githubusercontent.com/86979717/212220553-82bec9d2-fd67-41dd-86e6-4f2b557dd42b.png)
 
-Hipótese verdadeira, visto que o preço médio do pé quadrado, ou square foot, do lote é 35% maior nos imóveis com vista para a água.
+Hipótese verdadeira, visto que o preço médio do pé quadrado, ou square foot, do lote é 35% maior nos imóveis com vista para a água. Seria interessante, então, priorizar imóveis com vista para a água.
 
 
 * Hipótese 2: Imóveis com data de construção menor que 1955, são 50% mais baratos, na média.
 
 ![image](https://user-images.githubusercontent.com/86979717/212220863-25e6ea9b-47e1-4595-a27f-c72b701bb0a8.png)
 
-Hipótese falsa. Imóveis construídos após 1955 tem, em média, preço por pé quadrado apenas 9% maior.
+Hipótese falsa. Imóveis construídos após 1955 tem, em média, preço por pé quadrado apenas 9% maior; ou seja, não há necessidade de descartar ou diminuir o potencial de ganho com imóveis muito antigos.
 
 
 * Hipótese 3: Imóveis sem porão possuem sqft_lot 50% maiores do que com porão.
@@ -108,7 +108,7 @@ Hipótese falsa. Imóveis sem porão tem, em média, apenas 22% a mais de pés q
 
 ![image](https://user-images.githubusercontent.com/86979717/212221500-48aaad8a-ad18-42a3-8f23-bfed74dc4742.png)
 
-Hipótese falsa. A correlação do preço por pé quadrado com quantidade de quartos é quase 0. A com quantidade de banheiros é maior.
+Hipótese falsa. A correlação do preço por pé quadrado com quantidade de quartos é quase 0. A com quantidade de banheiros é maior; o que traduz para um interesse comercial maior por imóveis com maior quantidade de banheiros.
 
 
 * Hipótese 5: H5: O preço dos imóveis aumenta ao menos 5% ano a ano (YoY) após a construção.
@@ -116,5 +116,5 @@ Hipótese falsa. A correlação do preço por pé quadrado com quantidade de qua
 
 ![image](https://user-images.githubusercontent.com/86979717/212221866-9245dbd9-0343-408c-906e-1a25ce6cc09d.png)
 
-Hipótese falsa: Como pode ser visto no gráfico da esquerda, o preço médio por pé quadrado abaixou para imóveis construídos no início do século XX para os construídos nos anos 40 a 90, tendo novamente uma trajetória de crescimento para os construídos nos anos 2000. 
+Hipótese falsa: Como pode ser visto no gráfico da esquerda, o preço médio por pé quadrado abaixou de imóveis construídos no início do século XX para os construídos nos anos 40 a 90, tendo novamente uma trajetória de crescimento para os construídos nos anos 2000.
 
