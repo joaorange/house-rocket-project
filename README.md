@@ -118,3 +118,11 @@ Hipótese falsa. A correlação do preço por pé quadrado com quantidade de qua
 
 Hipótese falsa: Como pode ser visto no gráfico da esquerda, o preço médio por pé quadrado abaixou de imóveis construídos no início do século XX para os construídos nos anos 40 a 90, tendo novamente uma trajetória de crescimento para os construídos nos anos 2000.
 
+# 5. Conclusão
+
+O objetivo desse projeto foi analisar dados para tanto delimitar estratégias de negócio quanto para retirar insights, além de desenvolver um dashboard de visualização de dados que pudesse ser utilizado, tanto pelo computador ou pelo celular, de forma simples pelos tomadores de decisão da House Rocket.
+
+# 6. Próximos Passos
+
+* Tornar o dashboard mais informativo e entendível;
+* Adicionar uma forma de visualizar o lucro potencial de um determinado imóvel no dashboard.
